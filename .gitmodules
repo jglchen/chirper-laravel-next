@@ -1,0 +1,6 @@
+[submodule "chirper-api-token"]
+	path = chirper-api-token
+	url = https://github.com/jglchen/chirper-api-token
+[submodule "chirper-next-token"]
+	path = chirper-next-token
+	url = https://github.com/jglchen/chirper-next-token

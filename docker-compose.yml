@@ -1,0 +1,16 @@
+services:
+  api:
+    image: jglchen/chirper-api-token
+    command: "php artisan serve --host=0.0.0.0"
+    ports:
+      - 8000:8000
+    volumes:
+      - chirper-laravel-sqlite:/app/database
+
+  next:
+    image: jglchen/chirper-next-token
+    ports:
+      - 3000:3000
+
+volumes:
+  chirper-laravel-sqlite:
