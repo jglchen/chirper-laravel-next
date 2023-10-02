@@ -1,4 +1,4 @@
-## Laravel Chirper API with Token Auth Backend with Next.js Frontend
+## Laravel Chirper API Token Auth Backend with Next.js Frontend
 
 [The Laravel Bootcamp](https://bootcamp.laravel.com/) demonstrates three different ways to build a microblogging platform called Chirper, [with Blade](https://bootcamp.laravel.com/blade/installation), [with Livewire](https://bootcamp.laravel.com/livewire/installation), and [with JavaScript and Inertia](https://bootcamp.laravel.com/inertia/installation).
 
